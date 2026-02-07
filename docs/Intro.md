@@ -1,4 +1,4 @@
-# Introduction: Forecasting the Future Brain States
+# Introduction: Forecasting Future Brain States
 
 Time-series forecasting is a pillar of modern data science, spanning economics, meteorology, and neuroscience. The goal is simple yet ambitious: to predict the future state of a system based on historical observations and underlying dynamics.
 
