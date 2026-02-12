@@ -26,9 +26,6 @@ project:
     
 site:
   template: book-theme
-  # options:
-  #   favicon: favicon.ico
-  #   logo: site_logo.png
+  options:
+    analytics_google: G-EC8V3YPSS2
 
-analytics:
-  google: G-EC8V3YPSS2
