@@ -16,10 +16,10 @@ project:
       title: Vector Autoregressive Integrated Moving Average 
     - file: DMD.ipynb
       title: Dynamic Mode Decomposition
-    - file: TCN.ipynb
-      title: Temporal Convolution Network (COMING SOON)
     - file: GRU.ipynb
       title: Gated Recurrent Network (COMING SOON)
+    - file: TCN.ipynb
+      title: Temporal Convolution Network
     - file: Transformer.ipynb
     - file: S6.ipynb
       title: Selective State Space Model
