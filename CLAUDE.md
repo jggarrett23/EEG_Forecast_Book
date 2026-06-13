@@ -39,6 +39,7 @@ This is a time series analysis project exploring the performance of various stat
 7. `/docs/S6.ipynb`: Forecast with **Selective State Space Model** (S6) (e.g, Mamba).
 
 ## RULES
+- DO NOT push or merge with the git branch `main`. Only merge with the branch `dev` if the user permits.
 - Create new git branches when modifying a notebook. Concisely specify what the modification is for in the git branch name.
 - Ask for permission before installing new packages.
 - Commit files to git before making edits that change more than 50 lines of code or text.
