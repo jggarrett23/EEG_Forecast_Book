@@ -21,6 +21,7 @@ project:
     - file: TCN.ipynb
       title: Temporal Convolution Network
     - file: Transformer.ipynb
+      title: Transformers
     - file: S6.ipynb
       title: Selective State Space Model
     
