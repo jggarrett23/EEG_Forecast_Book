@@ -7,7 +7,7 @@ import os
 if __name__ == '__main__':
 
     sjNum = int(input('Sj Number: '))
-    rootDir = 'D:/EEG_Forecast/Data/Gu_et_al_2024_SSVEP_dataset/Data/'
+    rootDir = 'D:/EEG_Forecast_Book/dataset/Data/'
     dataDir = os.path.join(rootDir, f'data_s{sjNum:d}_64.mat')
 
     data_file = h5py.File(dataDir)
