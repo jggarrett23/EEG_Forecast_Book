@@ -24,6 +24,8 @@ project:
       title: Transformers
     - file: S6.ipynb
       title: Selective State Space Model
+    - file: Model Comparison.ipynb
+      title: Comparing Time Series Models
     
 site:
   template: book-theme
